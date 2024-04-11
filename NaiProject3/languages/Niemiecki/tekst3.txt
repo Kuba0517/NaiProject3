@@ -1,0 +1,9 @@
+Die Bewegung der Erde um die Sonne folgt dem ersten Keplerschen Gesetz, wonach sie sich auf einer elliptischen Bahn befindet, wobei die Sonne sich in einem der Brennpunkte dieser Ellipse befindet. Die Ellipsenhauptachse verbindet den sonnenfernsten Punkt (Aphel) und den sonnennächsten Punkt (Perihel) der Umlaufbahn. Die durchschnittliche Länge dieser Achse beträgt etwa 149,6 Millionen Kilometer und definiert die Astronomische Einheit (AE).
+
+Das Aphel liegt bei etwa 1,017 AE (152,1 Millionen km) und das Perihel bei etwa 0,983 AE (147,1 Millionen km), wobei die Exzentrizität der Ellipse bei 0,0167 liegt. Die Erde vollendet ihre Umlaufbahn um die Sonne in etwa 365 Tagen, 6 Stunden, 9 Minuten und 9,54 Sekunden, was als siderisches Jahr bezeichnet wird. Dieses Jahr ist um 20 Minuten und 24 Sekunden länger als das tropische Jahr, das als Grundlage für den bürgerlichen Kalender dient.
+
+Die Durchschnittsgeschwindigkeit der Erde beträgt etwa 29,78 km/s, im Perihel etwa 30,29 km/s und im Aphel etwa 29,29 km/s. Die Erde legt somit eine Strecke der Länge ihres Durchmessers in etwa sieben Minuten zurück.
+
+Die Erdbahn ist im Durchschnitt etwa 0,28 AE (41,44 Millionen km) von der inneren Nachbarbahn der Venus und etwa 0,52 AE (78,32 Millionen km) von der äußeren Nachbarbahn des Mars entfernt. Merkur ist jedoch im Mittel der Erde am nächsten (1,039 AE). Die Erdbahn enthält auch mehrere koorbitale Objekte.
+
+Die Erde umkreist die Sonne in prograder Richtung, das heißt entgegen dem Uhrzeigersinn, wenn man von oben auf die Ebene der Erdumlaufbahn schaut. Diese Ebene wird als Ekliptik bezeichnet und ist etwa 7° gegen die Äquatorebene der Sonne geneigt. Der Nordpol der Sonne ist der Erde um den Anfang September am stärksten zugewandt, während der Sonnensüdpol um den Anfang März am stärksten zugewandt ist. Die Erde befindet sich kurzzeitig um den 6. Juni und den 8. Dezember in der Ebene des Sonnenäquators.

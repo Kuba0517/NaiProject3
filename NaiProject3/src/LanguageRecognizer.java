@@ -20,6 +20,9 @@ public class LanguageRecognizer {
                 @Override
                 public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
                     try {
+                        if(file..equals("Angielski")){
+
+                        }
                         List<String> lines = Files.readAllLines(file);
                         languageMap.put(file.getFileName().toString().split("\\.")[0], lines);
                     } catch (IOException e) {
